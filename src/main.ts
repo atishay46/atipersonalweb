@@ -54,11 +54,11 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           </div>
         </a>
 
-        <a href="https://www.figma.com/proto/uOkJgew5kjhq3Tc5O37wgw/Sports-Shopping-App-UI-Concept--Community-?t=WgBJz0vtkg7OiZ5W-1" class="card" target="_blank">
-          <img src="https://i.ibb.co/fdYBrmgg/image.png" class="img" alt="Online Shopping App" />
+        <a href="https://www.figma.com/proto/mH46QAiWCwVfDnJGqFsHYP/Banking-Company-Website-UI-Template-Design-in-Dark-Theme---FREE-Editable----Community-?node-id=5-26176&t=wAYUwaGp0c1U4yNx-1" class="card" target="_blank">
+          <img src="https://i.ibb.co/LdqhQFFv/image.png" class="img" alt="Online Shopping App" />
           <div class="description">
-            <h3>Sports Shopping App</h3>
-            <p>Gear up for greatness - everything sports, all in one place</p>
+            <h3>Banking Company Website</h3>
+            <p>Smart, secure, and personalized banking for all.</p>
           </div>
         </a>
 
@@ -70,13 +70,15 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           </div>
         </a>
 
-        <a href="https://www.figma.com/proto/9owiFOMmQp57imbElrJjqd/Singer-Band--Community-?node-id=0-1&t=1orBlHSF1W44JtNO-1" class="card" target="_blank">
-          <img src="https://i.ibb.co/7dnjskSb/image.png" class="img" alt="Chess App" />
+        
+        <a href="https://www.figma.com/proto/uOkJgew5kjhq3Tc5O37wgw/Sports-Shopping-App-UI-Concept--Community-?node-id=0-13&t=wAYUwaGp0c1U4yNx-1" class="card" target="_blank">
+          <img src="https://i.ibb.co/fdYBrmgg/image.png" class="img" alt="Online Shopping App" />
           <div class="description">
-            <h3>Concert App</h3>
-            <p>Catch Emiway live - book your vibe, not just a ticket!</p>
+            <h3>Sports Shopping App</h3>
+            <p>Gear up for greatness - everything sports, all in one place</p>
           </div>
         </a>
+
         
       </div>
     </div>
@@ -106,7 +108,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       <div class="layout-grid">
 
       
-          <a href="https://www.figma.com/proto/uOkJgew5kjhq3Tc5O37wgw/Sports-Shopping-App-UI-Concept--Community-?t=WgBJz0vtkg7OiZ5W-1" class="card" target="_blank">
+          <a href="https://www.figma.com/proto/uOkJgew5kjhq3Tc5O37wgw/Sports-Shopping-App-UI-Concept--Community-?node-id=0-13&t=wAYUwaGp0c1U4yNx-1" class="card" target="_blank">
           <img src="https://i.ibb.co/fdYBrmgg/image.png" class="img" alt="Online Shopping App" />
           <div class="description">
             <h3>Sports Shopping App</h3>
@@ -114,7 +116,15 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           </div>
         </a>
 
-         <a href="https://www.figma.com/proto/BoGLtJdCRsGVPd7wwH9vFM/Ticket-Booking-App--Community-?t=WgBJz0vtkg7OiZ5W-1" class="card" target="_blank">
+         <a href="https://www.figma.com/proto/mH46QAiWCwVfDnJGqFsHYP/Banking-Company-Website-UI-Template-Design-in-Dark-Theme---FREE-Editable----Community-?node-id=5-26176&t=wAYUwaGp0c1U4yNx-1" class="card" target="_blank">
+          <img src="https://i.ibb.co/LdqhQFFv/image.png" class="img" alt="Online Shopping App" />
+          <div class="description">
+            <h3>Banking Company Website</h3>
+            <p>Smart, secure, and personalized banking for all.</p>
+          </div>
+        </a>
+
+        <a href="https://www.figma.com/proto/BoGLtJdCRsGVPd7wwH9vFM/Ticket-Booking-App--Community-?t=WgBJz0vtkg7OiZ5W-1" class="card" target="_blank">
           <img src="https://i.ibb.co/xtwNM5g3/image.png" class="img" alt="Groceries App" />
           <div class="description">
             <h3>Ticket Booking App</h3>
@@ -122,13 +132,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           </div>
         </a>
 
-        <a href="https://www.figma.com/proto/9owiFOMmQp57imbElrJjqd/Singer-Band--Community-?node-id=0-1&t=1orBlHSF1W44JtNO-1" class="card" target="_blank">
-          <img src="https://i.ibb.co/7dnjskSb/image.png" class="img" alt="Chess App" />
-          <div class="description">
-            <h3>Concert App</h3>
-            <p>Catch Emiway live - book your vibe, not just a ticket!</p>
-          </div>
-        </a>
+         
         
     
 
