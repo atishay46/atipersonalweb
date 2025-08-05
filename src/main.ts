@@ -21,11 +21,11 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
     <div class="container">
       <div class="layout-grid">
 
-        <a href="https://axisdemo.vercel.app/" class="card" target="_blank">
+        <a href="https://axis2025.vercel.app/" class="card" target="_blank">
           <img src="https://i.ibb.co/DPccG13V/Screenshot-2025-05-20-170300.png" class="img" alt="Futuristic Tech Website" />
           <div class="description">
             <h3>Space themed Techfest Website</h3>
-            <p>Space-inspired techfest platform with live AI chat bot</p>
+            <p>A futuristic tech fest platform with Supabase backend, live AI chat, and dynamic event features.</p>
           </div>
         </a>
 
@@ -151,11 +151,11 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           </div>
         </a>
 
-        <a href="https://axisdemo.vercel.app/" class="card" target="_blank">
+        <a href="https://axis2025.vercel.app/" class="card" target="_blank">
           <img src="https://i.ibb.co/DPccG13V/Screenshot-2025-05-20-170300.png" class="img" alt="Futuristic Tech Website" />
           <div class="description">
             <h3>Space themed Techfest Website</h3>
-            <p>Space-inspired techfest platform with live AI chat bot</p>
+            <p>A futuristic tech fest platform with Supabase backend, live AI chat, and dynamic event features.</p>
           </div>
         </a>
 
