@@ -29,6 +29,15 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           </div>
         </a>
 
+         <a href="https://calendrino.vercel.app/" class="card" target="_blank">
+          <img src="https://i.ibb.co/2165J2F8/Screenshot-2025-08-12-181902.png" class="img" alt="Smart Calendar & Agenda Management Website" />
+          <div class="description">
+            <h3>Interactive Calendar Tool for Streamlined Daily Management</h3>
+            <p>A modern interactive calendar for scheduling, organizing, and tracking events with a clean, responsive design and tools for daily, weekly, and monthly planning.</p>
+          </div>
+        </a>
+
+
         <a href="https://curio-city-flame.vercel.app/" class="card" target="_blank">
           <img src="https://i.ibb.co/Rk6gkFQw/Screenshot-2025-05-20-170722.png" class="img" alt="Online Learning Platform" />
           <div class="description">
@@ -156,6 +165,14 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           <div class="description">
             <h3>Space themed Techfest Website</h3>
             <p>A futuristic tech fest platform with Supabase backend, live AI chat, and dynamic event features.</p>
+          </div>
+        </a>
+
+        <a href="https://calendrino.vercel.app/" class="card" target="_blank">
+          <img src="https://i.ibb.co/2165J2F8/Screenshot-2025-08-12-181902.png" class="img" alt="Smart Calendar & Agenda Management Website" />
+          <div class="description">
+            <h3>Interactive Calendar Tool for Streamlined Daily Management</h3>
+            <p>A modern interactive calendar for scheduling, organizing, and tracking events with a clean, responsive design and tools for daily, weekly, and monthly planning.</p>
           </div>
         </a>
 
